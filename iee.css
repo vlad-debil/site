@@ -1,0 +1,19 @@
+body {
+    font-family: sans-serif;
+    background-color:#241c1c
+}
+h1{border:10px solid gray;
+ border-color:gray;
+  border-radius:29px;
+  background-color:gray;
+  text-align:center
+}
+footer {border:10px solid gray;
+ border-color:gray;
+  border-radius:29px;
+  background-color:gray;
+  }
+  nav a {border:2px solid gray;
+ border-color:gray;
+  border-radius:29px;
+  background-color:gray;
